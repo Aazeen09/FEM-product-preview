@@ -21,3 +21,7 @@ body {
   font-family: "Montserrat", sans-serif;
   text-decoration: line-through;
 }
+
+#text-container-main {
+  background-color: white;
+}
